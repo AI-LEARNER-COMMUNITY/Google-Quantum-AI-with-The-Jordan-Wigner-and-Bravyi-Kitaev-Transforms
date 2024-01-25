@@ -1,0 +1,2 @@
+# Google-Quantum-AI-with-The-Jordan-Wigner-and-Bravyi-Kitaev-Transforms
+The Jordan-Wigner Transform:  This is the more straightforward approach. It represents each fermionic creation (annihilation) operator with a pair of Pauli operators acting on qubits. While conceptually simple, this mapping introduces "phase factors" that complicate certain calculations and limit its efficiency for some systems.
